@@ -5,3 +5,6 @@
 
 ### 室内机配置过程时序图
 ![](https://github.com/maxiaozhou1234/diagrams/blob/master/sipSetting.png)
+
+### 手机流程
+![](https://github.com/maxiaozhou1234/diagrams/blob/master/openDoor.png)
